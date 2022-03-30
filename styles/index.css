@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+@import url('https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css');
+
+body {
+    background-color: #020202;
+    color : white;
+    font-family : sans-serif, Arial, Helvetica;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+#red {
+    color : #790000;
+}
+
+.center {
+    text-align: center;
+}
+
+.info {
+    text-align: center;
+    font-family: sans-cerif, Ubuntu;
+}
+
+.info p {
+    max-width : 400px;
+    text-align: center;
+    display: inline-block;
+    margin-top: auto;
+}
+
+.contenu {
+    background-color: #161720;
+    margin: 60px 10% 60px 10%;
+    padding: 10px 30px 20px 30px;
+    box-sizing: border-box;
+    border-radius: 1%;
+    box-shadow: 0 0 10px 8px #0b0b0f;
+}
+
+.separateur {
+    height: 2px;
+    width: 40%;
+    background-color: #2E2E39;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table {
+    /*background-color: blue;*/
+    padding: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+}
+
+.years {
+    padding-right: 20px;
+    padding-left: 20px;
+    color:#4e5263;
+}
+
+.etablisement {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.town {
+    color:#4e5263;
+}
+
+.col {
+    width: 49%;
+    text-align: center;
+}
+
+.col1 {
+    display: inline-block;
+    margin-right: auto;
+}
+
+.col2 {
+    float: right;
+}
+
+
+.imgdiv {
+    text-align: center;
+    position: relative;
+    display: inline-block;
+}
+
+.right {
+    float: right;
+}
+
+.imgdiv h2 {
+    position : absolute;
+    bottom: 0;
+    width: 100%;
+    padding-bottom: 30%;
+    margin-bottom: 0px;
+    display: block;
+}
+
+.imgtitle {
+    background-color: #4D006C;
+    box-sizing: border-box;
+    border-radius: 2%;
+}
+
+.heldiaImg {
+    width: 100%;
+    max-height: 600px;
+    min-height: 20px;
+    background-color: lightgrey;
+    object-fit: cover;
+    box-sizing: border-box;
+    border-radius: 2%;
+}
+
+ul.styletypenone {
+    list-style-type: none;
+}
+
+a.txtdecnone {
+    text-decoration:  none;
+    color : #4e5263;
+    font-family: sans-serif, Arial;
+    font-size: 1.2em;
+}
+
+.ullistcenter {
+    display: flex;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sociallg {
+    height: 25px;
+}
+
+.snli {
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fmul {
+    display: block;
+    width: 50%;
+    margin: auto;
+}
+
+.fmul li {
+    width: 20%;
+    margin: auto;
+}
+
+.cv {
+    color: #495CFF;
+}
+
+.ullistlg li {
+    display: inline-block;
+    padding-right: 20px;
+    color:#495CFF;
+}
+
+.foot {
+    margin-bottom: 0px;
+    color : #4e5263;
+    text-align: center;
+}
