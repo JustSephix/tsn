@@ -202,6 +202,10 @@ a.txtdecnone {
     .col2 {
         float: right;
     }
+    
+    .right {
+        float: right;
+    }
 
     .imgdiv {
         text-align: center;
