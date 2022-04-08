@@ -196,7 +196,7 @@ a.txtdecnone {
     .contenu {
         margin: 60px 10% 60px 10%;
         padding: 10px 30px 20px 30px;
-        border-radius: 1%;
+        border-radius: 20px;
         min-width: 400px;
     }
 
